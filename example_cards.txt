@@ -1,0 +1,13 @@
+What is Python?	Python is a high-level, interpreted programming language known for its simplicity and readability	python programming basics
+What is a list comprehension?	A concise way to create lists in Python using syntax like [x*2 for x in range(10)]	python syntax advanced
+What is the difference between == and === in JavaScript?	== performs type coercion, === checks both value and type without coercion	javascript operators
+What is photosynthesis?	The process by which plants convert light energy into chemical energy, producing glucose and oxygen	biology plants
+What is the speed of light?	Approximately 299,792,458 meters per second in a vacuum	physics constants
+Bonjour	Hello (French greeting)	french greetings basic
+Comment allez-vous?	How are you? (formal French)	french greetings formal
+What is recursion?	A programming technique where a function calls itself to solve a problem	python programming algorithms
+What is the capital of France?	Paris	geography europe
+What is 2+2?	4	math basic
+What is the quadratic formula?	For \(ax^2 + bx + c = 0\), the solutions are: \[x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}\]	math algebra
+What is Euler's identity?	\(e^{i\pi} + 1 = 0\)	math complex-numbers
+
