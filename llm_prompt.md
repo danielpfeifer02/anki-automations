@@ -32,15 +32,15 @@ Front content	Back content	tag1 tag2
 What is Python?	Python is a high-level programming language	programming python
 What is 2+2?	4	math basic
 
-Now, please generate Anki cards from the following content:
-
-[INSERT YOUR CONTENT HERE]
+Now, please generate data for Anki cards from the image data that I have also provided you. 
+Please only focus on any information that I will need to retain if I want to become very well educated in the field of machine learning. Make sure to exclude any specific examples (e.g. what classifiers are used in problem xyz) since that is unlikely to be very useful to know as an ML researcher. Only consider actual ML specifics - not problem details. If you don't deem anything interesting on the provided pages feel free to tell me and provide an explanation. Otherwise create cards as described above as close as possible to the contents of the provided data.
 
 Remember:
 - Use TAB characters between fields
 - Make cards clear and concise
 - Include appropriate tags when relevant
 - Each card should be on a single line
+- Make sure to use a separate block in the output for the result to allow easy copying.
 ```
 
 ## Detailed Format Specification
