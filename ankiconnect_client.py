@@ -152,6 +152,7 @@ class AnkiConnectClient:
         
         except AnkiConnectError:
             # Re-raise AnkiConnect errors
+            print(f"\nError adding note {note.get('fields', {}).get(self.config.front_field, '')}")
             raise
         except Exception as e:
             raise AnkiConnectError(f"Unexpected error adding note: {e}")
